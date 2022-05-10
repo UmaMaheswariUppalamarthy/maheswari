@@ -1,0 +1,17 @@
+.custdata{
+    background-color:bisque;
+    align:center;
+    
+    
+}
+.custdata td,th{
+    border:4px solid lightgreen;
+    padding:8px;
+
+}
+.custdata th{
+    padding-top:12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color:darkgreen;
+}
